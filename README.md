@@ -9,7 +9,7 @@ ITPG 502: Data Structures and Algorithms
 - Introduction to Divide and Conquer Concepts
 - Finding Maximum and Minimum Value
 - Merge Sort
-- uicksort
+- Quicksort
 - Karatsuba Algorithm (Multiplication Algorithm)
 - Strassen Algorithm (Matrix Multiplication)
 
