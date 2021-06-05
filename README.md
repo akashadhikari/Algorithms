@@ -6,10 +6,10 @@ ITPG 502: Data Structures and Algorithms
 
 ## Contents
 **Divide and Conquer Techniques** 
-- Introduction to Divide and Conquer Concepts
-- Finding Maximum and Minimum Value
-- Merge Sort
-- Quicksort
+- [x] Introduction to Divide and Conquer Concepts
+- [x] Finding Maximum and Minimum Value
+- [x] Merge Sort
+- [x] Quicksort
 - Karatsuba Algorithm (Multiplication Algorithm)
 - Strassen Algorithm (Matrix Multiplication)
 
@@ -20,7 +20,7 @@ ITPG 502: Data Structures and Algorithms
 - Dijkstra's Algorithm (Single Source Shortest Path Problem)
 - Huffman Coding
 
-**Dynamic Programming]**
+**Dynamic Programming**
 - Solving 0-1 Knapsack Problem 
 - Introduction to Graph; Representation 
 - Depth First Search 
