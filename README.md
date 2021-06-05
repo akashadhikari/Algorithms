@@ -6,7 +6,7 @@ ITPG 502: Data Structures and Algorithms
 
 ## Contents
 **Divide and Conquer Techniques** 
-- :heavy_check_mark: Introduction to Divide and Conquer Concepts
+- :heavy_check_mark: Binary Search
 - :heavy_check_mark: Finding Maximum and Minimum Value
 - :heavy_check_mark: Merge Sort
 - :heavy_check_mark: Quicksort
