@@ -7,9 +7,9 @@ ITPG 502: Data Structures and Algorithms
 ## Contents
 **Divide and Conquer Techniques** 
 - :heavy_check_mark: Introduction to Divide and Conquer Concepts
-- [x] Finding Maximum and Minimum Value
-- [x] Merge Sort
-- [x] Quicksort
+- :heavy_check_mark: Finding Maximum and Minimum Value
+- :heavy_check_mark: Merge Sort
+- :heavy_check_mark: Quicksort
 - Karatsuba Algorithm (Multiplication Algorithm)
 - Strassen Algorithm (Matrix Multiplication)
 
