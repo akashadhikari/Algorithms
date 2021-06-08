@@ -1,4 +1,6 @@
 __pycache__
+.vscode
+.idea
 data.csv
 plot_field.ipynb
 practice_field.ipynb
